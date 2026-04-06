@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 👋
 
 <!--
 **ami-rayed-na/ami-rayed-na** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
+**this is snake game contributor
 <div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ami-rayed-na/ami-rayed-na/output/snake/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ami-rayed-na/ami-rayed-na/output/snake/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/ami-rayed-na/ami-rayed-na/output/snake/github-snake.svg" />
   </picture>
-</div>
+</div> 
+-->
 
 <div>
   <picture>
