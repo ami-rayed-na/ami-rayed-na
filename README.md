@@ -1,8 +1,5 @@
 ## Hello 👋
-
-<div>
-  ![Visitor Count](https://komarev.com/ghpvc/?username=ami-rayed-na&color=blue&label=spectator)
-</div>
+![Visitor Count](https://komarev.com/ghpvc/?username=ami-rayed-na&color=blue&label=spectator)
 
 <!--
 **ami-rayed-na/ami-rayed-na** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
