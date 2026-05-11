@@ -1,16 +1,15 @@
 <div align="center">
-    <h3 align="center">Life was good… then I chose Engineering.</h3>
-    <img width="50%" src="https://github.com/user-attachments/assets/82eb3cb7-5258-41e2-a736-0aeee5b7fd3a">
+    <h3 align="center"><b>Life was good ...... then I chose Engineering.</b></h3>
+    <img width="70%" src="https://github.com/user-attachments/assets/82eb3cb7-5258-41e2-a736-0aeee5b7fd3a">
     <!--
     another gif
     <img src="https://github.com/user-attachments/assets/62241bd7-4afc-42d4-b4ba-6f6c23a22cc7">
     -->
-    <h2>Now I don’t even know what life is anymore.</h2>
+    <h6>Now I don’t even know what life is anymore.</h6>
 </div>
 
-<br><br>
+<br>
 
-## Hello 👋
 ![Visitor Count](https://komarev.com/ghpvc/?username=ami-rayed-na&color=blue&label=spectator)
 
   
