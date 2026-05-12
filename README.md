@@ -5,7 +5,7 @@
     another gif
     <img src="https://github.com/user-attachments/assets/62241bd7-4afc-42d4-b4ba-6f6c23a22cc7">
     -->
-    <h6>Now I don’t even know what life is anymore.</h6>
+    <h6>Now I don’t even know whoami.</h6>
 </div>
 
 <br>
