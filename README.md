@@ -11,8 +11,9 @@
 <br>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ami-rayed-na&color=blue&label=spectator)
+## Language, Technologies and Tools
+[![My Skills](https://skillicons.dev/icons?i=c,java,figma,linux,git,github,md,ai,ps,obsidian)](https://skillicons.dev)
 
-  
 
 <!--
 **ami-rayed-na/ami-rayed-na** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
